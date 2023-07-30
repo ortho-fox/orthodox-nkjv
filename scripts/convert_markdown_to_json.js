@@ -1,21 +1,22 @@
 const fs = require('fs');
 const path = require('path');
 
-
 function markdownToJSON(bookName, markdownContent) {
   const lines = markdownContent.split(/\r?\n/);
   let chapters = [];
   let currentChapter = null;
   let currentVerseNum = null;
+  let chapterNum = 1;
 
   for (const line of lines) {
     const chapterMatch = line.match(/^## Chapter (\d+)$/);
 
     if (chapterMatch) {
       if (currentChapter) {
-        chapters.push({ ...currentChapter, num: parseInt(chapterMatch[1]) });
+        chapters.push({ ...currentChapter });
       }
-      currentChapter = { verses: [] };
+      currentChapter = { num: chapterNum, verses: [] };
+      chapterNum++;
       currentVerseNum = null;
     } else {
       const verseMatch = line.match(/^(\d+)\. (.+)$/);
@@ -34,7 +35,7 @@ function markdownToJSON(bookName, markdownContent) {
   }
 
   if (currentChapter) {
-    chapters.push({ ...currentChapter, num: null });
+    chapters.push({ ...currentChapter });
   }
 
   return { name: bookName, chapters };
