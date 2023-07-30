@@ -1,10 +1,33 @@
 # Orthodox NKJV
 
-_The remaining books from the Orthodox canon are being added in future updates to provide the complete collection of Eastern Orthodox Christian books of the bible.._
+_The books from the Orthodox canon are being added in future updates to provide the complete collection of Eastern Orthodox Christian books of the bible.._
 
-**Orthodox NKJV** is a Node.js module that contains the complete text of the New King James Version (NKJV) Bible, organized in separate JSON files for each book. This project aims to make the NKJV Bible data easily accessible to developers for use in TypeScript/JavaScript applications.
+- [x] Tobit
+- [ ] Judith
+- [ ] Wisdom of Solomon
+- [ ] Sirach (Ecclesiasticus)
+- [ ] Baruch
+- [ ] 1 Maccabees
+- [ ] 2 Maccabees
+- [ ] 1 Esdras
+- [ ] Prayer of Manasseh
+- [ ] Psalm 151
 
-## Convert Markdown to JSON
+## Node Module
+
+**orthodox-nkjv** is a Node.js module that contains the complete text of the New King James Version (NKJV) Bible, organized in separate JSON, XML, and Markdown files for each book.
+
+`npm install orthodox-nkjv`
+
+---
+
+# Scripts
+
+This is a work in progress. Until we have all 76 book of the Eastern Orthodox NKJV, there are some helpful scripts in the `/scripts` directory that will convert a book in any format to any other format.
+
+Markdown is the least reliable source file from which to product JSON and then subsequently XML. But, there is a Markdown to JSON script which will work and seems to be the best option for preparing the text by hand.
+
+### Convert Markdown to JSON
 
 From the root directory of the project, run:
 
@@ -14,7 +37,7 @@ In this case the script will find a file in the markdown directory and create a 
 
 The markdown file must be formatted without error or the script will choke. See /books/markdown/tobit.md for an example of clean and correct formatting.
 
-## Convert JSON to XML
+### Convert JSON to XML
 
 To convert a specific book (e.g., tobit) to XML:
 
@@ -23,6 +46,12 @@ To convert a specific book (e.g., tobit) to XML:
 To convert all JSON files to XML:
 
 `node scripts/convert_json_to_xml.js` or `node scripts/convert_json_to_xml.js *`
+
+### Convert JSON to MD
+
+`node scripts/convert_json_to_markdown.js`
+
+---
 
 ## Folder Structure
 
@@ -136,5 +165,3 @@ The text of the St. Athanasius Academy SeptuagintTM (SAASTM) is also copyrighted
 - All SAAS quotations must conform accurately to the SAAS text.
 - Any use of the SAAS text must include a proper acknowledgment as follows: "Scripture taken from the St. Athanasius Academy SeptuagintTM. Copyright © 2008 by St. Athanasius Academy of Orthodox Theology. Used by permission. All rights reserved."
 - When quotations from the SAAS text are used in church bulletins, orders of service, Sunday School lessons, church newsletters, and similar works in the course of religious instruction or services at a place of worship or other religious assembly, the following notice may be used at the end of each quotation: "SAAS."
-
-Please note that while the current version includes the Protestant version with 66 books, we are actively working to expand the library to include additional books from the Orthodox canon.
