@@ -1,3 +1,5 @@
+# tobit
+
 ## Chapter 1
 
 1. This is the book of the words of Tobit, the son of Tobiel, the son of Hananiel, the son of Aduel, the son of Gabael, of the seed of Asiel, from the tribe of Naphtali.
@@ -177,6 +179,7 @@
 11. So Tobit said to him, “You are most welcome, my brother. Do be not angry with me for seeking to learn of your tribe and your family. As it turns out, you are a brother of mine from a good and upright family. For I knew Ananias and Jonathan, the sons of Shemiah the Great, since we would journey in common to Jerusalem to worship and to offer the firstborn and the tenth of our harvest. They were not led astray in the deception of our brothers. My brother, you are from a good root.
 
 12. “But tell me, what shall I give you as wages? A drachma a day and expenses for you and my son?
+
 13. I will even add more to your pay, if you both return in good health.”
 
 14. Thus they were well pleased. Then he said to Tobias, “Prepare for the journey, and may it be prosperous.” So his son prepared the things for the journey. Then his father said to him, “Go with this man, and may the God who dwells in heaven prosper your journey. May His angel journey with you.” They both departed, and the young man's dog went with them.
@@ -440,90 +443,144 @@
 1. Then Tobit with exceeding joy wrote a prayer, saying:
 
 2. “Blessed is God
-   Who lives unto the ages,
-   And blessed is His kingdom,
-   For He scourges, and is merciful;
-   He brings down into Hades,
-   And leads up.
-   There is no one who will escape His hand.
+
+undefined. Who lives unto the ages,
+
+undefined. And blessed is His kingdom,
+
+undefined. For He scourges, and is merciful;
+
+undefined. He brings down into Hades,
+
+undefined. And leads up.
+
+undefined. There is no one who will escape His hand.
+
 3. Give thanks to Him before the nations,
-   O children of Israel,
-   For He scattered us among them.
+
+undefined. O children of Israel,
+
+undefined. For He scattered us among them.
 
 4. Make known His greatness there;
-   Exalt Him in the presence of all the living,
-   For He is our Lord and God;
-   He is our Father unto all the ages.
+
+undefined. Exalt Him in the presence of all the living,
+
+undefined. For He is our Lord and God;
+
+undefined. He is our Father unto all the ages.
 
 5. He will scourge us for our wrongdoings,
-   But He will again have mercy
-   And gather us from all the nations,
-   Wherever you were dispersed among them.
+
+undefined. But He will again have mercy
+
+undefined. And gather us from all the nations,
+
+undefined. Wherever you were dispersed among them.
 
 6. If you return to Him with all your heart
-   And with all your soul,
-   To do the truth before Him,
-   Then He will turn to y ou
-   And not hide His presence from you.
+
+undefined. And with all your soul,
+
+undefined. To do the truth before Him,
+
+undefined. Then He will turn to y ou
+
+undefined. And not hide His presence from you.
 
 7. Behold for yourself what He will do for you,
-   And give thanks to Him fully with the organ of speech.
-   Bless the Lord of righteousness,
-   And exalt the King of the ages.
+
+undefined. And give thanks to Him fully with the organ of speech.
+
+undefined. Bless the Lord of righteousness,
+
+undefined. And exalt the King of the ages.
 
 8. In the land of my captivity, I give thanks to Him,
-   And make known His might and majesty to a nation of sinners.
-   Be converted, you sinners,
-   And do righteousness before Him.
-   Who knows if He will desire you
-   And have mercy on you?
+
+undefined. And make known His might and majesty to a nation of sinners.
+
+undefined. Be converted, you sinners,
+
+undefined. And do righteousness before Him.
+
+undefined. Who knows if He will desire you
+
+undefined. And have mercy on you?
 
 9. I exalt my God,
-   And my soul exalts the King of heaven
-   And will rejoice exceedingly in His majesty.
+
+undefined. And my soul exalts the King of heaven
+
+undefined. And will rejoice exceedingly in His majesty.
 
 10. Let all speak of His majesty
-    And give thanks to Him in Jerusalem.
-    O Jerusalem, the holy city,
-    He will scourge you for the deeds of your sons,
-    But He will again show mercy to the sons of the righteous.
+
+undefined. And give thanks to Him in Jerusalem.
+
+undefined. O Jerusalem, the holy city,
+
+undefined. He will scourge you for the deeds of your sons,
+
+undefined. But He will again show mercy to the sons of the righteous.
 
 11. Give thanks to the Lord with goodness
-    And bless the King of the ages,
-    That His tabernacle may be restored again to you in joy .
+
+undefined. And bless the King of the ages,
+
+undefined. That His tabernacle may be restored again to you in joy .
 
 12. May He rejoice in ou, the captives,
-    And may He love those who are distressed among you
-    Unto all generations forever.
+
+undefined. And may He love those who are distressed among you
+
+undefined. Unto all generations forever.
 
 13. Many Gentiles will come from afar
-    To the name of the Lord God,
-    Bearing gifts in their hands
-    And offerings to the King of heaven.
-    Generations of generations will offer You joyful worship.
+
+undefined. To the name of the Lord God,
+
+undefined. Bearing gifts in their hands
+
+undefined. And offerings to the King of heaven.
+
+undefined. Generations of generations will offer You joyful worship.
 
 14. Cursed are all who hate You;
-    Blessed are all who love You forever.
+
+undefined. Blessed are all who love You forever.
 
 15. Rejoice and be exceedingly glad for the children of the righteous, For they will be gathered together
-    And will bless the Lord of the righteous.
-    Blessed are those who love You.
-    They will rejoice in Your peace.
+
+undefined. And will bless the Lord of the righteous.
+
+undefined. Blessed are those who love You.
+
+undefined. They will rejoice in Your peace.
 
 16. Blessed are the many who grieved over all Your scourges,
-    For they will rejoice when they see all Your glory
-    And will rejoice forever.
-    Let my soul bless God the great King.
+
+undefined. For they will rejoice when they see all Your glory
+
+undefined. And will rejoice forever.
+
+undefined. Let my soul bless God the great King.
 
 17. For Jerusalem will be built with sapphire and emerald,
-    And her walls with precious stones,
-    And her towers and battlements with pure gold.
-    The streets of Jerusalem will be paved
-    With beryl, onyx, and stones from Ophir.
+
+undefined. And her walls with precious stones,
+
+undefined. And her towers and battlements with pure gold.
+
+undefined. The streets of Jerusalem will be paved
+
+undefined. With beryl, onyx, and stones from Ophir.
 
 18. All her streets will proclaim, ‘Alleluia!’
-    And will give praise, saying,
-    ‘Blessed is God, who exalted you unto all the ages.’”
+
+undefined. And will give praise, saying,
+
+undefined. ‘Blessed is God, who exalted you unto all the ages.’”
 
 ## Chapter 14
 
@@ -556,3 +613,4 @@
 14. Tobias died at Ecbatana of Media when he was one hundred and twenty-seven years old.
 
 15. Before he died, he heard of the destruction of Nineveh, taken by Nebuchadnezzar and Ahasuerus. Thus before his death he rejoiced over Nineveh.
+
