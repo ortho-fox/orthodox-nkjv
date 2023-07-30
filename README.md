@@ -58,9 +58,11 @@ The project is structured as follows:
 
 ```
 
-- The `books` folder contains individual JSON files, each representing a book from the New King James Version of the Bible. These files hold the structured text data, organized into chapters and verses.
+- The `books` folder contains individual JSON, XML and Markdown (.md) files, each representing a book from the Eastern ORthodox New King James Version of the Bible. These files hold the structured text data, organized into chapters and verses.
 
 - The `examples` folder includes TypeScript example files that demonstrate how to access and use the NKJV Bible data from this module.
+
+- the `scripts` folder contains scripts for converting Markdown files in to JSON and JSON into XML
 
 ## Installation
 
