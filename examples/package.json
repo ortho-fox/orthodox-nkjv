@@ -1,0 +1,13 @@
+{
+"name": "orthodox-nkjv-examples",
+"version": "1.0.0",
+"description": "Examples for using the orthodox-nkjv module",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"author": "orthofox",
+"license": "ISC",
+"dependencies": {
+"typescript": "^5.1.6"
+}
+}

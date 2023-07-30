@@ -1,0 +1,10 @@
+{
+  "name": "orthodox-nkjv",
+  "version": "1.0.0",
+  "description": "Node.js module containing the text of the Orthodox Canon of the New King James Version (NKJV) Bible",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orthofox",
+  "license": "MIT"
+}
