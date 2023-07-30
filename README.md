@@ -4,21 +4,48 @@ _The remaining books from the Orthodox canon will be added in future updates to 
 
 **Orthodox NKJV** is a Node.js module that contains the complete text of the New King James Version (NKJV) Bible, organized in separate JSON files for each book. This project aims to make the NKJV Bible data easily accessible to developers for use in TypeScript/JavaScript applications.
 
+## Convert Markdown to JSON
+
+From the root directory of the project, run:
+
+`node scripts/convert_markdown_to_json.js Tobit`
+
+In this case the script will find a file in the markdown directory and create a file called tobit.md in the markdown directory.
+
+The markdown file must be formatted without error or the script will choke. See /books/markdown/tobit.md for an example of clean and correct formatting.
+
 ## Folder Structure
 
 The project is structured as follows:
 
 ```orthodox-nkjv/
 |- books/
-| |- genesis.json
-| |- exodus.json
-| |- ... (other JSON files for each book)
+|  |- json/
+|  |  |- 1-chronicles.json
+|  |  |- 1-corinthians.json
+|  |  |- ... (other JSON files for each book)
+|  |
+|  |- markdown/
+|  |  |- 1-chronicles.md
+|  |  |- 1-corinthians.md
+|  |  |- ... (other Markdown files for each book)
+|  |
+|  |- xml/
+|     |- 1-chronicles.xml
+|     |- 1-corinthians.xml
+|     |- ... (other XML files for each book)
 |
 |- examples/
-| |- readBible.ts
-| |- other-examples.ts
+|  |- bibleReader.ts
+|  |- other-examples.ts
+|
+|- scripts/
+|  |- convert_markdown_to_json.js
 |
 |- README.md
+|- package.json
+|- package-lock.json
+
 ```
 
 - The `books` folder contains individual JSON files, each representing a book from the New King James Version of the Bible. These files hold the structured text data, organized into chapters and verses.
