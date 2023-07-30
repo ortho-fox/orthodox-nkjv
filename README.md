@@ -1,6 +1,6 @@
 # Orthodox NKJV
 
-_The remaining books from the Orthodox canon will be added in future updates to provide a more comprehensive collection of Orthodox Christian texts. We are actively working on expanding the library to include the additional books and texts found in the Orthodox Christian tradition._
+_The remaining books from the Orthodox canon are being added in future updates to provide the complete collection of Eastern Orthodox Christian books of the bible.._
 
 **Orthodox NKJV** is a Node.js module that contains the complete text of the New King James Version (NKJV) Bible, organized in separate JSON files for each book. This project aims to make the NKJV Bible data easily accessible to developers for use in TypeScript/JavaScript applications.
 
@@ -13,6 +13,16 @@ From the root directory of the project, run:
 In this case the script will find a file in the markdown directory and create a file called tobit.md in the markdown directory.
 
 The markdown file must be formatted without error or the script will choke. See /books/markdown/tobit.md for an example of clean and correct formatting.
+
+## Convert JSON to XML
+
+To convert a specific book (e.g., tobit) to XML:
+
+`node scripts/convert_json_to_xml.js tobit`
+
+To convert all JSON files to XML:
+
+`node scripts/convert_json_to_xml.js` or `node scripts/convert_json_to_xml.js *`
 
 ## Folder Structure
 
